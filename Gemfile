@@ -4,7 +4,7 @@ gem "sinatra"
 gem "hashie"
 gem "sinatra", '1.4.4'
 gem "octokit", '~> 2.0'
-gem "awesome_print", :git => 'git@github\.com:awesome\-pri
+gem "awesome_print", git: 'git@github\.com:awesome\-pri
 nt\/awesome_print\.git'
 
 
